@@ -1,0 +1,100 @@
+#p1 {
+border-top-width: 10px;
+border-right-width : 10px;
+border-bottom-width : 10px;
+border-left-width : 10px;
+border-top-style: none;
+border-right-style: none;
+border-bottom-style: none;
+border-left-style: none;
+}
+#p2 {
+border-top-width: 10px;
+border-right-width : 10px;
+border-bottom-width : 10px;
+border-left-width : 10px;
+border-top-style: hidden;
+border-right-style: hidden;
+border-bottom-style: hidden;
+border-left-style: hidden;
+}
+#p3 {
+border-top-width: 5px;
+border-right-width : 5px;
+border-bottom-width : 5px;
+border-left-width : 5px;
+border-top-style: dotted;
+border-right-style: dotted;
+border-bottom-style: dotted;
+border-left-style: dotted;
+}
+#p4 {
+border-top-width: 5px;
+border-right-width : 5px;
+border-bottom-width : 5px;
+border-left-width : 5px;
+border-top-style: dashed;
+border-right-style: dashed;
+border-bottom-style: dashed;
+border-left-style: dashed;
+}
+#p5 {
+border-top-width: 5px;
+border-right-width : 5px;
+border-bottom-width : 5px;
+border-left-width : 5px;
+border-top-style: solid;
+border-right-style: solid;
+border-bottom-style: solid;
+border-left-style: solid;
+}
+#p6 {
+border-top-width: 5px;
+border-right-width : 5px;
+border-bottom-width : 5px;
+border-left-width : 5px;
+border-top-style: double;
+border-right-style: double;
+border-bottom-style: double;
+border-left-style: double;
+}
+#p7 {
+border-top-width: 5px;
+border-right-width : 5px;
+border-bottom-width : 5px;
+border-left-width : 5px;
+border-top-style: groove;
+border-right-style: groove;
+border-bottom-style: groove;
+border-left-style: groove;
+}
+#p8 {
+border-top-width: 5px;
+border-right-width : 5px;
+border-bottom-width : 5px;
+border-left-width : 5px;
+border-top-style: ridge;
+border-right-style: ridge;
+border-bottom-style: ridge;
+border-left-style: ridge;
+}
+#p9 {
+border-top-width: 5px;
+border-right-width : 5px;
+border-bottom-width : 5px;
+border-left-width : 5px;
+border-top-style: inset;
+border-right-style: inset;
+border-bottom-style: inset;
+border-left-style: inset;
+}
+#p10 {
+border-top-width: 5px;
+border-right-width : 5px;
+border-bottom-width : 5px;
+border-left-width : 5px;
+border-top-style: outset;
+border-right-style: outset;
+border-bottom-style: outset;
+border-left-style: outset;
+}
